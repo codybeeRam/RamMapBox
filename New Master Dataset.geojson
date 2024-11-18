@@ -61,7 +61,7 @@
         "State": "Kentucky",
         "Fillings": 0,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -90,7 +90,7 @@
         "State": "Tennessee",
         "Fillings": 21,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 12,
         "Year": 2021
       },
@@ -119,7 +119,7 @@
         "State": "Virginia",
         "Fillings": 126,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2022
       },
@@ -293,7 +293,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -322,7 +322,7 @@
         "State": "Tennessee",
         "Fillings": 21,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 11,
         "Year": 2020
       },
@@ -348,7 +348,7 @@
         "Total Value of Care": "$131,974.00 ",
         "State": "Colorado",
         "Fillings": 75,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 29,
         "Year": 2019
       },
@@ -377,7 +377,7 @@
         "State": "Texas",
         "Fillings": 315,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 117,
         "Year": 2023
       },
@@ -429,7 +429,7 @@
         "City": "Bennington",
         "Total Value of Care": "$206,172.00 ",
         "State": "Virginia",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -486,7 +486,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -512,7 +512,7 @@
         "Total Value of Care": "$129,359.00 ",
         "State": "Kentucky",
         "Fillings": 68,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 18,
         "Year": 2019
       },
@@ -570,7 +570,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -596,7 +596,7 @@
         "Total Value of Care": "$66,717.00 ",
         "State": "Massachusetts",
         "Fillings": 18,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 12,
         "Year": 2022
       },
@@ -677,7 +677,7 @@
         "City": "Jamestown",
         "Total Value of Care": "$205,465.00 ",
         "State": "New York",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -763,7 +763,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -876,7 +876,7 @@
         "Total Value of Care": "$320,313.00 ",
         "State": "Ohio",
         "Fillings": 91,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 34,
         "Year": 2023
       },
@@ -984,7 +984,7 @@
         "City": "Laredo",
         "Total Value of Care": "$171,000.00 ",
         "State": "Texas",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2021
       },
       "geometry": {
@@ -1041,7 +1041,7 @@
         "State": "Tennessee",
         "Fillings": 98,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 36,
         "Year": 2019
       },
@@ -1114,7 +1114,7 @@
         "City": "Madison",
         "Total Value of Care": "$59,302.00 ",
         "State": "Florida",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2022
       },
       "geometry": {
@@ -1139,7 +1139,7 @@
         "Total Value of Care": "$168,149.00 ",
         "State": "Florida",
         "Fillings": 2,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 8,
         "Year": 2023
       },
@@ -1284,7 +1284,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -1308,7 +1308,7 @@
         "City": "Emporia",
         "Total Value of Care": "$427,143.00 ",
         "State": "Virginia",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -1365,7 +1365,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -1391,7 +1391,7 @@
         "Total Value of Care": "$293,200.00 ",
         "State": "Ohio",
         "Fillings": 341,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 108,
         "Year": 2019
       },
@@ -1420,7 +1420,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -1449,7 +1449,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -1565,7 +1565,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2016
       },
@@ -1710,7 +1710,7 @@
         "State": "Tennessee",
         "Fillings": 183,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 108,
         "Year": 2018
       },
@@ -1739,7 +1739,7 @@
         "State": "New York",
         "Fillings": 38,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 16,
         "Year": 2021
       },
@@ -1855,7 +1855,7 @@
         "State": "Pennsylvania",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -1884,7 +1884,7 @@
         "State": "California",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -1942,7 +1942,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 106,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -2029,7 +2029,7 @@
         "State": "Tennessee",
         "Fillings": 254,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 223,
         "Year": 2016
       },
@@ -2084,7 +2084,7 @@
         "Total Value of Care": "$133,645.00 ",
         "State": "New York",
         "Fillings": 153,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 30,
         "Year": 2022
       },
@@ -2274,7 +2274,7 @@
         "State": "South Carolina",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -2468,7 +2468,7 @@
         "State": "Tennessee",
         "Fillings": 65,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 8,
         "Year": 2021
       },
@@ -2497,7 +2497,7 @@
         "State": "",
         "Fillings": 139,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 108,
         "Year": 2019
       },
@@ -2526,7 +2526,7 @@
         "State": "Kentucky",
         "Fillings": 199,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 67,
         "Year": 2023
       },
@@ -2608,7 +2608,7 @@
         "Total Value of Care": "$11,279.00 ",
         "State": "Virginia",
         "Fillings": 14,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 9,
         "Year": 2024
       },
@@ -2631,7 +2631,7 @@
         "City": "Fisherville",
         "Total Value of Care": "$293,919.00 ",
         "State": "Virginia",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2022
       },
       "geometry": {
@@ -2770,7 +2770,7 @@
         "Total Value of Care": "$29,412.00 ",
         "State": "Arkansas",
         "Fillings": 8,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 5,
         "Year": 2024
       },
@@ -2906,7 +2906,7 @@
         "State": "Tennessee",
         "Fillings": 79,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 43,
         "Year": 2021
       },
@@ -2964,7 +2964,7 @@
         "State": "Tennessee",
         "Fillings": 68,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -2989,7 +2989,7 @@
         "Total Value of Care": "$345,378.00 ",
         "State": "Texas",
         "Fillings": 106,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 96,
         "Year": 2023
       },
@@ -3047,7 +3047,7 @@
         "State": "Logon, Daanbantayan, Cebu",
         "Fillings": 56,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 51,
         "Year": 2024
       },
@@ -3076,7 +3076,7 @@
         "State": "West Virginia",
         "Fillings": 41,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 29,
         "Year": 2022
       },
@@ -3395,7 +3395,7 @@
         "State": "Tennessee",
         "Fillings": 78,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 29,
         "Year": 2020
       },
@@ -3509,7 +3509,7 @@
         "State": "Virginia",
         "Fillings": 215,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 32,
         "Year": 2019
       },
@@ -3617,7 +3617,7 @@
         "Total Patients": 400,
         "Total Value of Care": "$16,000.00 ",
         "State": "South Carolina",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -3725,7 +3725,7 @@
         "State": "Tennessee",
         "Fillings": 26,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -3809,7 +3809,7 @@
         "Total Value of Care": "$31,144.00 ",
         "State": "New Jersey",
         "Fillings": 92,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2024
       },
@@ -3896,7 +3896,7 @@
         "State": "Tennessee",
         "Fillings": 180,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 79,
         "Year": 2016
       },
@@ -3925,7 +3925,7 @@
         "State": "Texas",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -3954,7 +3954,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -3980,7 +3980,7 @@
         "Total Value of Care": "$122,911.00 ",
         "State": "Tennessee",
         "Fillings": 58,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 34,
         "Year": 2019
       },
@@ -4009,7 +4009,7 @@
         "State": "Indiana",
         "Fillings": 53,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 17,
         "Year": 2023
       },
@@ -4154,7 +4154,7 @@
         "State": "FL",
         "Fillings": 435,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 145,
         "Year": 2018
       },
@@ -4183,7 +4183,7 @@
         "State": "Tennessee",
         "Fillings": 50,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 27,
         "Year": 2024
       },
@@ -4441,7 +4441,7 @@
         "Total Value of Care": "$243,471.00 ",
         "State": "Texas",
         "Fillings": 170,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 161,
         "Year": 2016
       },
@@ -4496,7 +4496,7 @@
         "Total Value of Care": "$121,840.00 ",
         "State": "Ohio",
         "Fillings": 38,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2021
       },
@@ -4554,7 +4554,7 @@
         "State": "Virginia",
         "Fillings": 219,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 48,
         "Year": 2023
       },
@@ -4612,7 +4612,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -4696,7 +4696,7 @@
         "Total Value of Care": "$155,707.00 ",
         "State": "Nevada",
         "Fillings": 44,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 50,
         "Year": 2019
       },
@@ -4725,7 +4725,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -4777,7 +4777,7 @@
         "City": "Cincinnati",
         "Total Value of Care": "$150,860.00 ",
         "State": "Ohio",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -4892,7 +4892,7 @@
         "State": "Tennessee",
         "Fillings": 33,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 35,
         "Year": 2021
       },
@@ -4921,7 +4921,7 @@
         "State": "Tennessee",
         "Fillings": 65,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 15,
         "Year": 2018
       },
@@ -5095,7 +5095,7 @@
         "State": "Virginia",
         "Fillings": 18,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 6,
         "Year": 2024
       },
@@ -5201,7 +5201,7 @@
         "Expedition": 1031,
         "City": "Emporia",
         "State": "Virginia",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2019
       },
       "geometry": {
@@ -5229,7 +5229,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -5258,7 +5258,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 68,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -5287,7 +5287,7 @@
         "State": "Tennessee",
         "Fillings": 192,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 35,
         "Year": 2022
       },
@@ -5313,7 +5313,7 @@
         "Total Value of Care": "$135,113.00 ",
         "State": "Texas",
         "Fillings": 106,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 51,
         "Year": 2021
       },
@@ -5335,7 +5335,7 @@
         "City": "Midfield",
         "Total Value of Care": "$11,600.00 ",
         "State": "Alabama",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2019
       },
       "geometry": {
@@ -5421,7 +5421,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -5474,7 +5474,7 @@
         "Total Value of Care": "$251,965.00 ",
         "State": "Alaska",
         "Fillings": 13,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 8,
         "Year": 2024
       },
@@ -5524,7 +5524,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -5605,7 +5605,7 @@
         "City": "Gadsden",
         "Total Value of Care": "$30,745.00 ",
         "State": "Alabama",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -5633,7 +5633,7 @@
         "State": "Tennessee",
         "Fillings": 11,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -5691,7 +5691,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -5857,7 +5857,7 @@
         "State": "Tennessee",
         "Fillings": 106,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 43,
         "Year": 2019
       },
@@ -5944,7 +5944,7 @@
         "State": "Pennsylvania",
         "Fillings": 40,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 39,
         "Year": 2023
       },
@@ -6026,7 +6026,7 @@
         "State": "Tennessee",
         "Fillings": 42,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 17,
         "Year": 2018
       },
@@ -6084,7 +6084,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 94,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -6113,7 +6113,7 @@
         "State": "Ohio",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -6142,7 +6142,7 @@
         "State": "WV",
         "Fillings": 0,
         "Pet Served": 72,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -6171,7 +6171,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 55,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -6258,7 +6258,7 @@
         "State": "Texas",
         "Fillings": 7,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 2,
         "Year": 2024
       },
@@ -6287,7 +6287,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -6374,7 +6374,7 @@
         "State": "Massachusetts",
         "Fillings": 10,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -6482,7 +6482,7 @@
         "State": "Texas",
         "Fillings": 119,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 21,
         "Year": 2024
       },
@@ -6505,7 +6505,7 @@
         "City": "Elgin",
         "Total Value of Care": "$174,453.00 ",
         "State": "Illinois",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2021
       },
       "geometry": {
@@ -6559,7 +6559,7 @@
         "Total Value of Care": "$133,459.00 ",
         "State": "New Mexico",
         "Fillings": 192,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 59,
         "Year": 2018
       },
@@ -6585,7 +6585,7 @@
         "Total Value of Care": "$50,353.00 ",
         "State": "Louisiana",
         "Fillings": 8,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2020
       },
@@ -6698,7 +6698,7 @@
         "Total Value of Care": "$192,456.00 ",
         "State": "Missouri",
         "Fillings": 51,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 155,
         "Year": 2019
       },
@@ -6756,7 +6756,7 @@
         "State": "Kentucky",
         "Fillings": 117,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 4,
         "Year": 2022
       },
@@ -6838,7 +6838,7 @@
         "State": "Ohio",
         "Fillings": 777,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 259,
         "Year": 2019
       },
@@ -6867,7 +6867,7 @@
         "State": "Ohio",
         "Fillings": "",
         "Pet Served": 160,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -6954,7 +6954,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -7212,7 +7212,7 @@
         "State": "Virginia",
         "Fillings": 161,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 30,
         "Year": 2023
       },
@@ -7241,7 +7241,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -7299,7 +7299,7 @@
         "State": "Texas",
         "Fillings": 109,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 76,
         "Year": 2023
       },
@@ -7377,7 +7377,7 @@
         "State": "Virginia",
         "Fillings": 16,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 9,
         "Year": 2022
       },
@@ -7435,7 +7435,7 @@
         "State": "Texas",
         "Fillings": 1,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 7,
         "Year": 2024
       },
@@ -7488,7 +7488,7 @@
         "Total Value of Care": "$45,450.00 ",
         "State": "GA",
         "Fillings": 183,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -7874,7 +7874,7 @@
         "State": "Tennessee",
         "Fillings": 615,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 202,
         "Year": 2018
       },
@@ -7955,7 +7955,7 @@
         "Total Value of Care": "$222,496.00 ",
         "State": "Kentucky",
         "Fillings": 67,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 26,
         "Year": 2019
       },
@@ -8013,7 +8013,7 @@
         "State": "Tennessee",
         "Fillings": 246,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 61,
         "Year": 2019
       },
@@ -8042,7 +8042,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -8071,7 +8071,7 @@
         "State": "South Carolina",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -8235,7 +8235,7 @@
         "State": "Tennessee",
         "Fillings": 23,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2018
       },
@@ -8368,7 +8368,7 @@
         "State": "Tennessee",
         "Fillings": 106,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 52,
         "Year": 2021
       },
@@ -8393,7 +8393,7 @@
         "Total Value of Care": "$86,109.00 ",
         "State": "Minnesota",
         "Fillings": 44,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 41,
         "Year": 2019
       },
@@ -8509,7 +8509,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -8622,7 +8622,7 @@
         "Total Value of Care": "$20,964.00 ",
         "State": "Virginia",
         "Fillings": 84,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -8650,7 +8650,7 @@
         "State": "Tennessee",
         "Fillings": 99,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 24,
         "Year": 2023
       },
@@ -8842,7 +8842,7 @@
         "State": "Tennessee",
         "Fillings": 53,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 13,
         "Year": 2018
       },
@@ -8929,7 +8929,7 @@
         "State": "Tennessee",
         "Fillings": 82,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 50,
         "Year": 2023
       },
@@ -8987,7 +8987,7 @@
         "State": "Tennessee",
         "Fillings": 159,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 104,
         "Year": 2020
       },
@@ -9092,7 +9092,7 @@
         "State": "Tennessee",
         "Fillings": 110,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 39,
         "Year": 2022
       },
@@ -9205,7 +9205,7 @@
         "Total Value of Care": "$192,633.00 ",
         "State": "New York",
         "Fillings": 133,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 5,
         "Year": 2024
       },
@@ -9234,7 +9234,7 @@
         "State": "Virginia",
         "Fillings": 323,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 47,
         "Year": 2018
       },
@@ -9321,7 +9321,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -9372,7 +9372,7 @@
         "City": "Des Moines",
         "Total Value of Care": "$61,807.00 ",
         "State": "Iowa",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2021
       },
       "geometry": {
@@ -9514,7 +9514,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 116,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -9659,7 +9659,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -9717,7 +9717,7 @@
         "State": "Tennessee",
         "Fillings": 81,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -9746,7 +9746,7 @@
         "State": "CA",
         "Fillings": 58,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 53,
         "Year": 2018
       },
@@ -9859,7 +9859,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -10004,7 +10004,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -10033,7 +10033,7 @@
         "State": "Tennessee",
         "Fillings": 55,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 48,
         "Year": 2023
       },
@@ -10146,7 +10146,7 @@
         "Total Value of Care": "$230,860.00 ",
         "State": "Montana",
         "Fillings": 59,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 8,
         "Year": 2024
       },
@@ -10201,7 +10201,7 @@
         "Total Value of Care": "$78,977.00 ",
         "State": "North Carolina",
         "Fillings": 52,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2022
       },
@@ -10230,7 +10230,7 @@
         "State": "Tennessee",
         "Fillings": 7,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -10259,7 +10259,7 @@
         "State": "Tennessee",
         "Fillings": 250,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 58,
         "Year": 2022
       },
@@ -10288,7 +10288,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -10317,7 +10317,7 @@
         "State": "Tennessee",
         "Fillings": 58,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2022
       },
@@ -10520,7 +10520,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -10549,7 +10549,7 @@
         "State": "Alaska",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -10665,7 +10665,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -10752,7 +10752,7 @@
         "State": "North Carolina",
         "Fillings": 7,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 6,
         "Year": 2023
       },
@@ -10839,7 +10839,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -10868,7 +10868,7 @@
         "State": "TX",
         "Fillings": 751,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 62,
         "Year": 2018
       },
@@ -10920,7 +10920,7 @@
         "City": "Hurrican Florence",
         "Total Value of Care": "$59,000.00 ",
         "State": "North Carolina",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -10948,7 +10948,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -10977,7 +10977,7 @@
         "State": "Kentucky",
         "Fillings": 25,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 18,
         "Year": 2023
       },
@@ -11006,7 +11006,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 163,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -11030,7 +11030,7 @@
         "City": "Durant",
         "Total Value of Care": "$257,305.00 ",
         "State": "Oklahoma",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -11058,7 +11058,7 @@
         "State": "Virginia",
         "Fillings": 65,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 3,
         "Year": 2024
       },
@@ -11435,7 +11435,7 @@
         "State": "Tennessee",
         "Fillings": 80,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2023
       },
@@ -11464,7 +11464,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -11522,7 +11522,7 @@
         "State": "Virginia",
         "Fillings": 174,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 68,
         "Year": 2023
       },
@@ -11551,7 +11551,7 @@
         "State": "Texas",
         "Fillings": 171,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 126,
         "Year": 2019
       },
@@ -11783,7 +11783,7 @@
         "State": "North Carolina",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -11812,7 +11812,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -11841,7 +11841,7 @@
         "State": "Texas",
         "Fillings": 58,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 114,
         "Year": 2019
       },
@@ -11925,7 +11925,7 @@
         "Total Value of Care": "$33,351.00 ",
         "State": "Texas",
         "Fillings": 30,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 35,
         "Year": 2024
       },
@@ -12200,7 +12200,7 @@
         "Total Value of Care": "$106,383.00 ",
         "State": "Virginia",
         "Fillings": 273,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 127,
         "Year": 2023
       },
@@ -12229,7 +12229,7 @@
         "State": "Tennessee",
         "Fillings": 45,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 29,
         "Year": 2023
       },
@@ -12420,7 +12420,7 @@
         "Total Value of Care": "$86,521.00 ",
         "State": "Georgia",
         "Fillings": 67,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 22,
         "Year": 2021
       },
@@ -12620,7 +12620,7 @@
         "Total Value of Care": "$127,509.00 ",
         "State": "Virginia",
         "Fillings": 29,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 2,
         "Year": 2023
       },
@@ -12757,7 +12757,7 @@
         "State": "Oklahoma",
         "Fillings": 115,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 65,
         "Year": 2019
       },
@@ -12815,7 +12815,7 @@
         "State": "New York",
         "Fillings": 55,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 7,
         "Year": 2022
       },
@@ -12844,7 +12844,7 @@
         "State": "Tennessee",
         "Fillings": 64,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2022
       },
@@ -13018,7 +13018,7 @@
         "State": "Tennessee",
         "Fillings": 107,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 50,
         "Year": 2019
       },
@@ -13076,7 +13076,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -13098,7 +13098,7 @@
         "City": "Dallas",
         "Total Value of Care": "$200,244.00 ",
         "State": "Texas",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2022
       },
       "geometry": {
@@ -13204,7 +13204,7 @@
         "State": "Kentucky",
         "Fillings": 304,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 147,
         "Year": 2022
       },
@@ -13262,7 +13262,7 @@
         "State": "Tennessee",
         "Fillings": 297,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 37,
         "Year": 2021
       },
@@ -13291,7 +13291,7 @@
         "State": "South Dakota",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -13320,7 +13320,7 @@
         "State": "Texas",
         "Fillings": 53,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 33,
         "Year": 2022
       },
@@ -13344,7 +13344,7 @@
         "Total Value of Care": "$14,127.00 ",
         "State": "Kansas",
         "Fillings": 6,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 1,
         "Year": 2024
       },
@@ -13373,7 +13373,7 @@
         "State": "KY",
         "Fillings": 158,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 73,
         "Year": 2018
       },
@@ -13452,7 +13452,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -13510,7 +13510,7 @@
         "State": "South Dakota",
         "Fillings": 78,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 46,
         "Year": 2018
       },
@@ -13568,7 +13568,7 @@
         "State": "Georgia",
         "Fillings": 53,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2022
       },
@@ -13678,7 +13678,7 @@
         "City": "Gainesville",
         "Total Value of Care": "$18,520.00 ",
         "State": "Florida",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -13817,7 +13817,7 @@
         "City": "Pahrump",
         "Total Value of Care": "$149,172.00 ",
         "State": "Nevada",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -13840,7 +13840,7 @@
         "City": "Alamo",
         "Total Value of Care": "$86,560.00 ",
         "State": "Texas",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -13923,7 +13923,7 @@
         "Total Value of Care": "$100,682.00 ",
         "State": "Virginia",
         "Fillings": 143,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 14,
         "Year": 2022
       },
@@ -14060,7 +14060,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 123,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -14089,7 +14089,7 @@
         "State": "Tennessee",
         "Fillings": 16,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2020
       },
@@ -14203,7 +14203,7 @@
         "State": "Tennessee",
         "Fillings": 98,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2019
       },
@@ -14232,7 +14232,7 @@
         "State": "Tennessee",
         "Fillings": 242,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 227,
         "Year": 2020
       },
@@ -14319,7 +14319,7 @@
         "State": "Virginia",
         "Fillings": 127,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 39,
         "Year": 2018
       },
@@ -14348,7 +14348,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -14534,7 +14534,7 @@
         "State": "Tennessee",
         "Fillings": 17,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 1,
         "Year": 2023
       },
@@ -14650,7 +14650,7 @@
         "State": "Tennessee",
         "Fillings": 46,
         "Pet Served": 30,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 25,
         "Year": 2021
       },
@@ -14673,7 +14673,7 @@
         "City": "Fort Lauderdale",
         "Total Value of Care": "$138,486.00 ",
         "State": "Florida",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2022
       },
       "geometry": {
@@ -15068,7 +15068,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -15123,7 +15123,7 @@
         "Total Value of Care": "$297,734.00 ",
         "State": "OK",
         "Fillings": 185,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 83,
         "Year": 2018
       },
@@ -15152,7 +15152,7 @@
         "State": "Tennessee",
         "Fillings": 15,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 12,
         "Year": 2021
       },
@@ -15173,7 +15173,7 @@
         "City": "Pine Ridge",
         "Total Value of Care": "$6,144.00 ",
         "State": "South Dakota",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2019
       },
       "geometry": {
@@ -15226,7 +15226,7 @@
         "City": "Birmingham",
         "Total Value of Care": "$41,350.00 ",
         "State": "Alabama",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -15254,7 +15254,7 @@
         "State": "Virginia",
         "Fillings": 155,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 70,
         "Year": 2018
       },
@@ -15302,7 +15302,7 @@
         "Expedition": 316,
         "County/Parish": "Gallia County",
         "Total Volunteers": 11,
-        "City": "Syracusa",
+        "City": "SyracUnited States",
         "Total Value of Care": "$3,925.00 ",
         "State": "Ohio",
         "Pet Served": 68,
@@ -15499,7 +15499,7 @@
         "Total Value of Care": "$226,138.00 ",
         "State": "Virginia",
         "Fillings": 180,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 65,
         "Year": 2018
       },
@@ -15528,7 +15528,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -15586,7 +15586,7 @@
         "State": "Tennessee",
         "Fillings": 15,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 26,
         "Year": 2019
       },
@@ -15670,7 +15670,7 @@
         "Total Value of Care": "$153,166.00 ",
         "State": "New York",
         "Fillings": 62,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 51,
         "Year": 2023
       },
@@ -15699,7 +15699,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -15786,7 +15786,7 @@
         "State": "Alabama",
         "Fillings": 48,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 38,
         "Year": 2022
       },
@@ -15873,7 +15873,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -15926,7 +15926,7 @@
         "Total Value of Care": "$63,980.00 ",
         "State": "Ohio",
         "Fillings": 11,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 1,
         "Year": 2024
       },
@@ -15979,7 +15979,7 @@
         "Total Value of Care": "$72,698.00 ",
         "State": "Nevada",
         "Fillings": 107,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 97,
         "Year": 2023
       },
@@ -16029,7 +16029,7 @@
         "State": "North Carolina",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -16087,7 +16087,7 @@
         "State": "Pennsylvania",
         "Fillings": 69,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 40,
         "Year": 2024
       },
@@ -16116,7 +16116,7 @@
         "State": "Texas",
         "Fillings": 62,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 34,
         "Year": 2022
       },
@@ -16145,7 +16145,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -16203,7 +16203,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -16287,7 +16287,7 @@
         "Total Value of Care": "$155,697.00 ",
         "State": "Virginia",
         "Fillings": 46,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 50,
         "Year": 2019
       },
@@ -16345,7 +16345,7 @@
         "State": "Tennessee",
         "Fillings": 108,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -16461,7 +16461,7 @@
         "State": "Oklahoma",
         "Fillings": 148,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 68,
         "Year": 2022
       },
@@ -16519,7 +16519,7 @@
         "State": "Nevada",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -16600,7 +16600,7 @@
         "Flu Shots": "",
         "Glasses": 0,
         "Total Patients": 672,
-        "City": "Cabusao",
+        "City": "CabUnited Stateso",
         "Extractions": 0,
         "Total Value of Care": "$6,990.00 ",
         "State": "Camarines",
@@ -16736,7 +16736,7 @@
         "City": "Seneca",
         "Total Value of Care": "$17,799.00 ",
         "State": "South Carolina",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -16811,7 +16811,7 @@
         "City": "Dayton",
         "Total Value of Care": "$37,491.00 ",
         "State": "Ohio",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2019
       },
       "geometry": {
@@ -16952,7 +16952,7 @@
         "State": "Tennessee",
         "Fillings": 42,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 38,
         "Year": 2019
       },
@@ -16974,7 +16974,7 @@
         "City": "Butler",
         "Total Value of Care": "$183,534.00 ",
         "State": "Pennsylvania",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2023
       },
       "geometry": {
@@ -17051,7 +17051,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2023
       },
@@ -17160,7 +17160,7 @@
         "City": "Luray",
         "Total Value of Care": "$139,152.00 ",
         "State": "Virginia",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2023
       },
       "geometry": {
@@ -17478,7 +17478,7 @@
         "State": "Tennessee",
         "Fillings": 307,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 104,
         "Year": 2018
       },
@@ -17507,7 +17507,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 36,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -17536,7 +17536,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -17681,7 +17681,7 @@
         "State": "Pennsylvania",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -17739,7 +17739,7 @@
         "State": "Virginia",
         "Fillings": 103,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 57,
         "Year": 2016
       },
@@ -17768,7 +17768,7 @@
         "State": "Tennessee",
         "Fillings": 23,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 36,
         "Year": 2023
       },
@@ -17884,7 +17884,7 @@
         "State": "West Virginia",
         "Fillings": 125,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 94,
         "Year": 2023
       },
@@ -17998,7 +17998,7 @@
         "State": "Tennessee",
         "Fillings": 451,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 210,
         "Year": 2019
       },
@@ -18027,7 +18027,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -18167,7 +18167,7 @@
         "Total Value of Care": "$345,782.00 ",
         "State": "Virginia",
         "Fillings": 85,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 78,
         "Year": 2019
       },
@@ -18306,7 +18306,7 @@
         "Flu Shots": "",
         "Glasses": "",
         "Total Patients": 1015,
-        "City": "Cabusao",
+        "City": "CabUnited Stateso",
         "Extractions": "",
         "Total Value of Care": "$617,500.00 ",
         "State": "Camarines Sur",
@@ -18341,7 +18341,7 @@
         "State": "Florida",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": ""
       },
@@ -18370,7 +18370,7 @@
         "State": "Tennessee",
         "Fillings": 10,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 11,
         "Year": 2020
       },
@@ -18428,7 +18428,7 @@
         "State": "South Dakota",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -18486,7 +18486,7 @@
         "State": "Tennessee",
         "Fillings": 142,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 9,
         "Year": 2022
       },
@@ -18602,7 +18602,7 @@
         "State": "Tennessee",
         "Fillings": 47,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 12,
         "Year": 2021
       },
@@ -18631,7 +18631,7 @@
         "State": "California",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -18660,7 +18660,7 @@
         "State": "Alabama",
         "Fillings": 21,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 2,
         "Year": 2022
       },
@@ -18747,7 +18747,7 @@
         "State": "Texas",
         "Fillings": 440,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 119,
         "Year": 2022
       },
@@ -18770,7 +18770,7 @@
         "City": "Spring Mills",
         "Total Value of Care": "$76,554.00 ",
         "State": "Pennsylvania",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2023
       },
       "geometry": {
@@ -18856,7 +18856,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -18885,7 +18885,7 @@
         "State": "Tennessee",
         "Fillings": 81,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2019
       },
@@ -18943,7 +18943,7 @@
         "State": "Tennessee",
         "Fillings": 125,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 35,
         "Year": 2022
       },
@@ -18969,7 +18969,7 @@
         "Total Value of Care": "$177,632.00 ",
         "State": "New Mexico",
         "Fillings": 156,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 62,
         "Year": 2018
       },
@@ -19056,7 +19056,7 @@
         "State": "Texas",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -19259,7 +19259,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -19346,7 +19346,7 @@
         "State": "Texas",
         "Fillings": 68,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 89,
         "Year": 2019
       },
@@ -19433,7 +19433,7 @@
         "State": "Texas",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -19517,7 +19517,7 @@
         "Total Value of Care": "$149,857.00 ",
         "State": "Texas",
         "Fillings": 118,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 44,
         "Year": 2023
       },
@@ -19633,7 +19633,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -19712,7 +19712,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -19877,7 +19877,7 @@
         "State": "TX",
         "Fillings": 515,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 250,
         "Year": 2018
       },
@@ -20015,7 +20015,7 @@
         "State": "West Virginia",
         "Fillings": "",
         "Pet Served": 126,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -20073,7 +20073,7 @@
         "State": "Florida",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -20160,7 +20160,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -20189,7 +20189,7 @@
         "State": "Texas",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -20247,7 +20247,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -20276,7 +20276,7 @@
         "State": "Tennessee",
         "Fillings": 52,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 60,
         "Year": 2024
       },
@@ -20334,7 +20334,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -20392,7 +20392,7 @@
         "State": "Tennessee",
         "Fillings": 31,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 5,
         "Year": 2024
       },
@@ -20442,7 +20442,7 @@
         "City": "Lower Brule",
         "Total Value of Care": "$23,000.00 ",
         "State": "South Dakota",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -20581,7 +20581,7 @@
         "State": "Tennessee",
         "Fillings": 24,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 18,
         "Year": 2024
       },
@@ -20842,7 +20842,7 @@
         "State": "Tennessee",
         "Fillings": 21,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 11,
         "Year": 2020
       },
@@ -20871,7 +20871,7 @@
         "State": "Tennessee",
         "Fillings": 100,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 44,
         "Year": 2018
       },
@@ -20929,7 +20929,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -20984,7 +20984,7 @@
         "Total Value of Care": "$235,419.00 ",
         "State": "Virginia",
         "Fillings": 113,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 40,
         "Year": 2019
       },
@@ -21071,7 +21071,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2024
       },
@@ -21147,7 +21147,7 @@
         "Total Value of Care": "$159,679.00 ",
         "State": "New Mexico",
         "Fillings": 166,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 70,
         "Year": 2019
       },
@@ -21234,7 +21234,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -21263,7 +21263,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 9,
         "Year": 2018
       },
@@ -21292,7 +21292,7 @@
         "State": "Virginia",
         "Fillings": 56,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2024
       },
@@ -21347,7 +21347,7 @@
         "Total Value of Care": "$109,417.00 ",
         "State": "Massachusetts",
         "Fillings": 38,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 11,
         "Year": 2023
       },
@@ -21376,7 +21376,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -21405,7 +21405,7 @@
         "State": "Tennessee",
         "Fillings": 28,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 22,
         "Year": 2022
       },
@@ -21608,7 +21608,7 @@
         "State": "Virginia",
         "Fillings": 201,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 59,
         "Year": 2019
       },
@@ -21650,7 +21650,7 @@
         "Total Patients": 1583,
         "Total Value of Care": "$186,000.00 ",
         "State": "South Dakota",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -21834,7 +21834,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -21921,7 +21921,7 @@
         "State": "Tennessee",
         "Fillings": 100,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 29,
         "Year": 2021
       },
@@ -21950,7 +21950,7 @@
         "State": "Pennsylvania",
         "Fillings": 7,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 1,
         "Year": 2022
       },
@@ -22173,7 +22173,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -22231,7 +22231,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -22260,7 +22260,7 @@
         "State": "Tennessee",
         "Fillings": 82,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 41,
         "Year": 2018
       },
@@ -22315,7 +22315,7 @@
         "Total Value of Care": "$160,897.00 ",
         "State": "South Carolina",
         "Fillings": 39,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2024
       },
@@ -22373,7 +22373,7 @@
         "State": "Illinois",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -22460,7 +22460,7 @@
         "State": "Virginia",
         "Fillings": 18,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 13,
         "Year": 2019
       },
@@ -22484,7 +22484,7 @@
         "City": "Birmingham",
         "Total Value of Care": "$41,700.00 ",
         "State": "Alabama",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -22537,7 +22537,7 @@
         "Extractions": 173,
         "Total Value of Care": "$204,593.00 ",
         "Fillings": 94,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 77,
         "Year": 2019
       },
@@ -22566,7 +22566,7 @@
         "State": "Tennessee",
         "Fillings": 105,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 25,
         "Year": 2024
       },
@@ -22624,7 +22624,7 @@
         "State": "West Virginia",
         "Fillings": 223,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 56,
         "Year": 2019
       },
@@ -22653,7 +22653,7 @@
         "State": "Tennessee",
         "Fillings": 304,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 45,
         "Year": 2019
       },
@@ -22711,7 +22711,7 @@
         "State": "Texas",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -22740,7 +22740,7 @@
         "State": "Tennessee",
         "Fillings": 121,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 26,
         "Year": 2024
       },
@@ -22935,7 +22935,7 @@
         "State": "Tennessee",
         "Fillings": 199,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 17,
         "Year": 2022
       },
@@ -22993,7 +22993,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -23193,7 +23193,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -23276,7 +23276,7 @@
         "Total Value of Care": "$65,124.00 ",
         "State": "Texas",
         "Fillings": 78,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 16,
         "Year": 2022
       },
@@ -23421,7 +23421,7 @@
         "State": "Tennessee",
         "Fillings": 274,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 82,
         "Year": 2019
       },
@@ -23450,7 +23450,7 @@
         "State": "Tennessee",
         "Fillings": 33,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 5,
         "Year": 2018
       },
@@ -23505,7 +23505,7 @@
         "Total Value of Care": "$179,006.00 ",
         "State": "Pennsylvania",
         "Fillings": 12,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 3,
         "Year": 2024
       },
@@ -23531,7 +23531,7 @@
         "Total Value of Care": "$196,232.00 ",
         "State": "Maryland",
         "Fillings": 114,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 66,
         "Year": 2023
       },
@@ -23589,7 +23589,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -23676,7 +23676,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -23901,7 +23901,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -23985,7 +23985,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -24128,7 +24128,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -24157,7 +24157,7 @@
         "State": "Tennessee",
         "Fillings": 250,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 37,
         "Year": 2018
       },
@@ -24212,7 +24212,7 @@
         "Total Value of Care": "$148,088.00 ",
         "State": "Virginia",
         "Fillings": 88,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 32,
         "Year": 2023
       },
@@ -24267,7 +24267,7 @@
         "Total Value of Care": "$7,339.00 ",
         "State": "North Carolina",
         "Fillings": 92,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 24,
         "Year": 2024
       },
@@ -24462,7 +24462,7 @@
         "State": "New York",
         "Fillings": 68,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 37,
         "Year": 2021
       },
@@ -24520,7 +24520,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -24821,7 +24821,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -24934,7 +24934,7 @@
         "Total Value of Care": "$30,403.00 ",
         "State": "Texas",
         "Fillings": 75,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2024
       },
@@ -24963,7 +24963,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 55,
         "Year": 2018
       },
@@ -25176,7 +25176,7 @@
         "State": "Tennessee",
         "Fillings": 42,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 25,
         "Year": 2020
       },
@@ -25202,7 +25202,7 @@
         "Total Value of Care": "$50,237.00 ",
         "State": "Kentucky",
         "Fillings": 65,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 7,
         "Year": 2022
       },
@@ -25231,7 +25231,7 @@
         "State": "Kentucky",
         "Fillings": 57,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 27,
         "Year": 2024
       },
@@ -25347,7 +25347,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -25419,7 +25419,7 @@
         "Total Value of Care": "$8,474.20 ",
         "State": "South Carolina",
         "Pet Served": 93,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -25505,7 +25505,7 @@
         "State": "Alabama",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -25534,7 +25534,7 @@
         "State": "Texas",
         "Fillings": 8,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 12,
         "Year": 2021
       },
@@ -25592,7 +25592,7 @@
         "State": "Alabama",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -25647,7 +25647,7 @@
         "Total Value of Care": "$76,763.00 ",
         "State": "Texas",
         "Fillings": 32,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 14,
         "Year": 2021
       },
@@ -25673,7 +25673,7 @@
         "Total Value of Care": "$199,895.00 ",
         "State": "Texas",
         "Fillings": 58,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 114,
         "Year": 2019
       },
@@ -25845,7 +25845,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -25921,7 +25921,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 85,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -26028,7 +26028,7 @@
         "State": "Virginia",
         "Fillings": 307,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 43,
         "Year": 2019
       },
@@ -26057,7 +26057,7 @@
         "State": "Tennessee",
         "Fillings": 43,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 45,
         "Year": 2018
       },
@@ -26086,7 +26086,7 @@
         "State": "Ohio",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -26141,7 +26141,7 @@
         "Total Value of Care": "$26,179.00 ",
         "State": "Oklahoma",
         "Fillings": 51,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 26,
         "Year": 2024
       },
@@ -26286,7 +26286,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -26309,7 +26309,7 @@
         "Total Value of Care": "$1,074,250.00 ",
         "State": "Arizona",
         "Fillings": 46,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 2,
         "Year": 2021
       },
@@ -26396,7 +26396,7 @@
         "State": "Tennessee",
         "Fillings": 19,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 3,
         "Year": 2016
       },
@@ -26508,7 +26508,7 @@
         "City": "Silver Springs",
         "Total Value of Care": "$95,860.00 ",
         "State": "Nevada",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -26623,7 +26623,7 @@
         "State": "Tennessee",
         "Fillings": 161,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -26681,7 +26681,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -26787,7 +26787,7 @@
         "State": "Tennessee",
         "Fillings": 30,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 32,
         "Year": 2018
       },
@@ -26813,7 +26813,7 @@
         "Total Value of Care": "$138,093.00 ",
         "State": "North Carolina",
         "Fillings": 73,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 28,
         "Year": 2024
       },
@@ -26925,7 +26925,7 @@
         "State": "Virginia",
         "Fillings": 306,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -27157,7 +27157,7 @@
         "State": "Ohio",
         "Fillings": 16,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 1,
         "Year": 2024
       },
@@ -27241,7 +27241,7 @@
         "Total Value of Care": "$158,671.00 ",
         "State": "Florida",
         "Fillings": 41,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 71,
         "Year": 2018
       },
@@ -27270,7 +27270,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -27473,7 +27473,7 @@
         "State": "Tennessee",
         "Fillings": 56,
         "Pet Served": 30,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 31,
         "Year": 2021
       },
@@ -27531,7 +27531,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 107,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -27633,7 +27633,7 @@
         "City": "Wilimantic",
         "Total Value of Care": "$156,674.00 ",
         "State": "Connecticut",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -27716,7 +27716,7 @@
         "Total Value of Care": "$173,288.00 ",
         "State": "Texas",
         "Fillings": 113,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 70,
         "Year": 2019
       },
@@ -27745,7 +27745,7 @@
         "State": "OH",
         "Fillings": 470,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 165,
         "Year": 2018
       },
@@ -27930,7 +27930,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -27988,7 +27988,7 @@
         "State": "Kentucky",
         "Fillings": 51,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 21,
         "Year": 2022
       },
@@ -28130,7 +28130,7 @@
         "Total Value of Care": "$86,049.00 ",
         "State": "Idaho",
         "Fillings": 51,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 20,
         "Year": 2020
       },
@@ -28217,7 +28217,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -28304,7 +28304,7 @@
         "State": "Tennessee",
         "Fillings": 15,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 7,
         "Year": 2023
       },
@@ -28449,7 +28449,7 @@
         "State": "Kentucky",
         "Fillings": 132,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 45,
         "Year": 2019
       },
@@ -28536,7 +28536,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -28565,7 +28565,7 @@
         "State": "Tennessee",
         "Fillings": 565,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 187,
         "Year": 2020
       },
@@ -28591,7 +28591,7 @@
         "Total Value of Care": "$171,230.00 ",
         "State": "Pennsylvania",
         "Fillings": 72,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 18,
         "Year": 2024
       },
@@ -28700,7 +28700,7 @@
         "Total Value of Care": "$4,704.00 ",
         "State": "Virginia",
         "Pet Served": 41,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -28781,7 +28781,7 @@
         "Total Value of Care": "$205,846.00 ",
         "State": "Oklahoma",
         "Fillings": 41,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 24,
         "Year": 2023
       },
@@ -28806,7 +28806,7 @@
         "Total Value of Care": "$24,758.00 ",
         "State": "Arkansas",
         "Fillings": 109,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 99,
         "Year": 2024
       },
@@ -28864,7 +28864,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -28919,7 +28919,7 @@
         "Total Value of Care": "$125,823.00 ",
         "State": "CA",
         "Fillings": 31,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 42,
         "Year": 2018
       },
@@ -28968,7 +28968,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -29084,7 +29084,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -29171,7 +29171,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -29511,7 +29511,7 @@
         "City": "Orlando",
         "Total Value of Care": "$15,182 ",
         "State": "Florida",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -29594,7 +29594,7 @@
         "Total Value of Care": "$14,850.00 ",
         "State": "California",
         "Fillings": 26,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 30,
         "Year": 2023
       },
@@ -29681,7 +29681,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -29710,7 +29710,7 @@
         "State": "North Carolina",
         "Fillings": 5,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 3,
         "Year": 2024
       },
@@ -29768,7 +29768,7 @@
         "State": "Kentucky",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -29895,7 +29895,7 @@
         "State": "Virginia",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -29953,7 +29953,7 @@
         "State": "Tennessee",
         "Fillings": 53,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 22,
         "Year": 2024
       },
@@ -30011,7 +30011,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2020
       },
@@ -30040,7 +30040,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 52,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -30069,7 +30069,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -30146,7 +30146,7 @@
         "City": "Baton Rouge",
         "Total Value of Care": "$30,000.00 ",
         "State": "Louisiana",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -30167,7 +30167,7 @@
         "City": "Emporia",
         "Total Value of Care": "$86,356.00 ",
         "State": "Virginia",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2022
       },
       "geometry": {
@@ -30514,7 +30514,7 @@
         "State": "North Carolina",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -30543,7 +30543,7 @@
         "State": "Tennessee",
         "Fillings": 13,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 7,
         "Year": 2016
       },
@@ -30764,7 +30764,7 @@
         "Total Value of Care": "$118,473.00 ",
         "State": "Nevada",
         "Fillings": 58,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 4,
         "Year": 2021
       },
@@ -30822,7 +30822,7 @@
         "State": "Tennessee",
         "Fillings": 87,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 55,
         "Year": 2022
       },
@@ -30872,7 +30872,7 @@
         "State": "Tennessee",
         "Fillings": 49,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 35,
         "Year": 2023
       },
@@ -30975,7 +30975,7 @@
         "Total Value of Care": "$32,201.00 ",
         "State": "Florida",
         "Fillings": 81,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 53,
         "Year": 2024
       },
@@ -31028,7 +31028,7 @@
         "Total Value of Care": "$168,999.00 ",
         "State": "Pennsylvania",
         "Fillings": 115,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2024
       },
@@ -31347,7 +31347,7 @@
         "State": "Tennessee",
         "Fillings": 72,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 28,
         "Year": 2024
       },
@@ -31376,7 +31376,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -31434,7 +31434,7 @@
         "State": "Texas",
         "Fillings": 245,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 157,
         "Year": 2016
       },
@@ -31547,7 +31547,7 @@
         "State": "Tennessee",
         "Fillings": 345,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 103,
         "Year": 2022
       },
@@ -31571,7 +31571,7 @@
         "Total Value of Care": "$25,330.00 ",
         "State": "Florida",
         "Fillings": 40,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -31599,7 +31599,7 @@
         "State": "Nevada",
         "Fillings": 116,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 49,
         "Year": 2020
       },
@@ -31683,7 +31683,7 @@
         "Total Value of Care": "$122,210.00 ",
         "State": "Georgia",
         "Fillings": 118,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 22,
         "Year": 2021
       },
@@ -31712,7 +31712,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -31770,7 +31770,7 @@
         "State": "Tennessee",
         "Fillings": 33,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 17,
         "Year": 2022
       },
@@ -31828,7 +31828,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -31915,7 +31915,7 @@
         "State": "Alaska",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -32031,7 +32031,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -32081,7 +32081,7 @@
         "Total Value of Care": "$28,650.00 ",
         "State": "Indianan",
         "Fillings": 7,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -32109,7 +32109,7 @@
         "State": "Tennessee",
         "Fillings": 2,
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 1,
         "Year": 2024
       },
@@ -32167,7 +32167,7 @@
         "State": "WV",
         "Fillings": 171,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 56,
         "Year": 2018
       },
@@ -32283,7 +32283,7 @@
         "State": "Tennessee",
         "Fillings": 27,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 19,
         "Year": 2022
       },
@@ -32428,7 +32428,7 @@
         "State": "Tennessee",
         "Fillings": 10,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 4,
         "Year": 2018
       },
@@ -32457,7 +32457,7 @@
         "State": "Texas",
         "Fillings": 77,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 91,
         "Year": 2019
       },
@@ -32544,7 +32544,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 26,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -32570,7 +32570,7 @@
         "Total Value of Care": "$130,566.00 ",
         "State": "California",
         "Fillings": 42,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 30,
         "Year": 2019
       },
@@ -32654,7 +32654,7 @@
         "Total Value of Care": "$157,834.00 ",
         "State": "Alaska",
         "Fillings": 117,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 25,
         "Year": 2023
       },
@@ -32683,7 +32683,7 @@
         "State": "Tennessee",
         "Fillings": 13,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 17,
         "Year": 2020
       },
@@ -32767,7 +32767,7 @@
         "Total Value of Care": "$34,930.00 ",
         "State": "Texas",
         "Fillings": 53,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 39,
         "Year": 2021
       },
@@ -32825,7 +32825,7 @@
         "State": "Maryland",
         "Fillings": 172,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 71,
         "Year": 2023
       },
@@ -32854,7 +32854,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -32883,7 +32883,7 @@
         "State": "Florida",
         "Fillings": 0,
         "Pet Served": 331,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2016
       },
@@ -32999,7 +32999,7 @@
         "State": "Tennessee",
         "Fillings": 40,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 21,
         "Year": 2023
       },
@@ -33078,7 +33078,7 @@
         "State": "Tennessee",
         "Fillings": 68,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 30,
         "Year": 2023
       },
@@ -33104,7 +33104,7 @@
         "Total Value of Care": "$30,180.00 ",
         "State": "CA",
         "Fillings": 3,
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2018
       },
       "geometry": {
@@ -33158,7 +33158,7 @@
         "Total Value of Care": "$56,021.00 ",
         "State": "Florida",
         "Fillings": 170,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 28,
         "Year": 2021
       },
@@ -33184,7 +33184,7 @@
         "Total Value of Care": "$129,091.00 ",
         "State": "South Dakota",
         "Fillings": 63,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 59,
         "Year": 2019
       },
@@ -33242,7 +33242,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -33329,7 +33329,7 @@
         "State": "Tennessee",
         "Fillings": 123,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 64,
         "Year": 2019
       },
@@ -33445,7 +33445,7 @@
         "State": "Florida",
         "Fillings": 237,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 144,
         "Year": 2019
       },
@@ -33503,7 +33503,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -33648,7 +33648,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -33735,7 +33735,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -33764,7 +33764,7 @@
         "State": "Ohio",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -33793,7 +33793,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -33959,7 +33959,7 @@
         "State": "Tennessee",
         "Fillings": 39,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 48,
         "Year": 2021
       },
@@ -34060,7 +34060,7 @@
         "State": "Tennessee",
         "Fillings": 311,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -34162,7 +34162,7 @@
         "State": "Tennessee",
         "Fillings": 202,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 59,
         "Year": 2021
       },
@@ -34249,7 +34249,7 @@
         "State": "Kentucky",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2023
       },
@@ -34278,7 +34278,7 @@
         "State": "Tennessee",
         "Fillings": 100,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2021
       },
@@ -34702,7 +34702,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -34963,7 +34963,7 @@
         "State": "Nevada",
         "Fillings": 17,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 40,
         "Year": 2023
       },
@@ -35036,7 +35036,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -35094,7 +35094,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 31,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -35118,7 +35118,7 @@
         "Total Value of Care": "$42,291.00 ",
         "State": "Georgia",
         "Fillings": 3,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 4,
         "Year": 2024
       },
@@ -35234,7 +35234,7 @@
         "State": "Tennessee",
         "Fillings": 3,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 4,
         "Year": 2018
       },
@@ -35321,7 +35321,7 @@
         "State": "NV",
         "Fillings": 219,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 48,
         "Year": 2018
       },
@@ -35437,7 +35437,7 @@
         "State": "South Dakota",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -35466,7 +35466,7 @@
         "State": "Virginia",
         "Fillings": 91,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 39,
         "Year": 2022
       },
@@ -35495,7 +35495,7 @@
         "State": "Tennessee",
         "Fillings": 52,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 23,
         "Year": 2023
       },
@@ -35573,7 +35573,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2019
       },
@@ -35631,7 +35631,7 @@
         "State": "Nevada",
         "Fillings": 77,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 9,
         "Year": 2022
       },
@@ -35855,7 +35855,7 @@
         "State": "South Dakota",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -36000,7 +36000,7 @@
         "State": "Texas",
         "Fillings": 1,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 16,
         "Year": 2022
       },
@@ -36051,7 +36051,7 @@
         "City": "Lusby",
         "Total Value of Care": "$141,631.00 ",
         "State": "Maryland",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2024
       },
       "geometry": {
@@ -36137,7 +36137,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -36166,7 +36166,7 @@
         "State": "Tennessee",
         "Fillings": 132,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -36195,7 +36195,7 @@
         "State": "Tennessee",
         "Fillings": 23,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 16,
         "Year": 2023
       },
@@ -36331,7 +36331,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2021
       },
@@ -36586,7 +36586,7 @@
         "Total Value of Care": "$125,286.00 ",
         "State": "FL",
         "Fillings": 40,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 39,
         "Year": 2018
       },
@@ -36610,7 +36610,7 @@
         "City": "Milton",
         "Total Value of Care": "$297,166.00 ",
         "State": "Florida",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -36667,7 +36667,7 @@
         "State": "Tennessee",
         "Fillings": 3,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 13,
         "Year": 2018
       },
@@ -36841,7 +36841,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2016
       },
@@ -36957,7 +36957,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -37268,7 +37268,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 175,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2019
       },
@@ -37355,7 +37355,7 @@
         "State": "Tennessee",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2022
       },
@@ -37384,7 +37384,7 @@
         "State": "Tennessee",
         "Fillings": 187,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 56,
         "Year": 2018
       },
@@ -37643,7 +37643,7 @@
         "State": "Tennessee",
         "Fillings": 86,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 10,
         "Year": 2021
       },
@@ -37666,7 +37666,7 @@
         "City": "Lakota Indians",
         "Total Value of Care": "$63,300.00 ",
         "State": "North Dakota",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2016
       },
       "geometry": {
@@ -37694,7 +37694,7 @@
         "State": "Florida",
         "Fillings": 135,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 48,
         "Year": 2021
       },
@@ -37720,7 +37720,7 @@
         "Total Value of Care": "$103,235.00 ",
         "State": "New York",
         "Fillings": 48,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 26,
         "Year": 2021
       },
@@ -37836,7 +37836,7 @@
         "State": "Ohio",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2024
       },
@@ -37973,7 +37973,7 @@
         "State": "Virginia",
         "Fillings": 237,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 28,
         "Year": 2018
       },
@@ -38047,7 +38047,7 @@
         "Total Value of Care": "$31,663.00 ",
         "State": "North Carolina",
         "Fillings": 79,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 35,
         "Year": 2023
       },
@@ -38105,7 +38105,7 @@
         "State": "Tennessee",
         "Fillings": 84,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 2,
         "Year": 2021
       },
@@ -38277,7 +38277,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 190,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -38306,7 +38306,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2016
       },
@@ -38393,7 +38393,7 @@
         "State": "Tennessee",
         "Fillings": "",
         "Pet Served": "",
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": "",
         "Year": 2020
       },
@@ -38509,7 +38509,7 @@
         "State": "Tennessee",
         "Fillings": 31,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 13,
         "Year": 2019
       },
@@ -38596,7 +38596,7 @@
         "State": "Tennessee",
         "Fillings": 107,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 54,
         "Year": 2023
       },
@@ -38712,7 +38712,7 @@
         "State": "Virginia",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -38821,7 +38821,7 @@
         "City": "Midway City",
         "Total Value of Care": "$21,720.00 ",
         "State": "California",
-        "Country": "USA",
+        "Country": "United States",
         "Year": 2019
       },
       "geometry": {
@@ -38962,7 +38962,7 @@
         "Total Value of Care": "$22,364.00 ",
         "State": "Texas",
         "Fillings": 42,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 15,
         "Year": 2024
       },
@@ -38991,7 +38991,7 @@
         "State": "Tennessee",
         "Fillings": 431,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 55,
         "Year": 2022
       },
@@ -39045,7 +39045,7 @@
         "Total Value of Care": "$8,700.00 ",
         "State": "Alabama",
         "Fillings": 61,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 27,
         "Year": 2021
       },
@@ -39074,7 +39074,7 @@
         "State": "Tennessee",
         "Fillings": 277,
         "Pet Served": 0,
-        "Country": "USA",
+        "Country": "United States",
         "Cleanings": 94,
         "Year": 2023
       },
