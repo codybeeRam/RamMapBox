@@ -5513,6 +5513,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1480",
+        "County/Parish": "",
+        "Total Volunteers": "564",
+        "Medical Exams": "138",
+        "Flu Shots": "",
+        "Glasses": "126",
+        "Total Patients": "695",
+        "City": "Columbus",
+        "Extractions": "212",
+        "Total Value of Care": " $360,993.00 ",
+        "State": "Ohio",
+        "Fillings": "160",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "60",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.9988,
+          39.9612
+        ],
+        "type": "Point"
+      },
+      "id": "2235b4f7cd988e4521acb8b1056f576a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "542",
         "County/Parish": "Pike Co",
         "Total Volunteers": "490",
@@ -7195,6 +7224,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1487",
+        "County/Parish": "",
+        "Total Volunteers": "6",
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "457",
+        "City": "Plaridel",
+        "Extractions": "",
+        "Total Value of Care": " $11,092.00 ",
+        "State": "",
+        "Fillings": "",
+        "Pet Served": "0",
+        "Country": "Philippines",
+        "Cleanings": "",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          120.8573,
+          14.8907
+        ],
+        "type": "Point"
+      },
+      "id": "2cf8b6648af079a1f13f98e5bb0c1ec1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "657",
         "County/Parish": "Medor",
         "Total Volunteers": "0",
@@ -8239,6 +8297,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1475",
+        "County/Parish": "",
+        "Total Volunteers": "452",
+        "Medical Exams": "45",
+        "Flu Shots": "0",
+        "Glasses": "185",
+        "Total Patients": "310",
+        "City": "Clinton",
+        "Extractions": "575",
+        "Total Value of Care": " $281,765.00 ",
+        "State": "Tennessee",
+        "Fillings": "77",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "28",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.1316,
+          36.1035
+        ],
+        "type": "Point"
+      },
+      "id": "338bca2d64e10dce4cbaac977ee456d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "618",
         "County/Parish": "Sullivan",
         "Total Volunteers": "650",
@@ -8438,6 +8525,35 @@
         "type": "Point"
       },
       "id": "34c6344ee1aeabc2c399ed3fff39dc7f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1417",
+        "County/Parish": "",
+        "Total Volunteers": "0",
+        "Medical Exams": "0",
+        "Flu Shots": "23",
+        "Glasses": "0",
+        "Total Patients": "0",
+        "City": "Rockford",
+        "Extractions": "0",
+        "Total Value of Care": " $1,196.00 ",
+        "State": "Tennessee",
+        "Fillings": "0",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "0",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.68494,
+          35.865628
+        ],
+        "type": "Point"
+      },
+      "id": "34da50ab2fd0987fed6e929b5663a629"
     },
     {
       "type": "Feature",
@@ -9685,35 +9801,6 @@
         "type": "Point"
       },
       "id": "3c3c7f6642488af6393328d171ab4428"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Expedition": "1094",
-        "County/Parish": "",
-        "Total Volunteers": "",
-        "Medical Exams": "",
-        "Flu Shots": "",
-        "Glasses": "",
-        "Total Patients": "",
-        "City": "Buena Vista",
-        "Extractions": "",
-        "Total Value of Care": "",
-        "State": "Virginia",
-        "Fillings": "",
-        "Pet Served": "",
-        "Country": "USA",
-        "Cleanings": "",
-        "Year": "2020"
-      },
-      "geometry": {
-        "coordinates": [
-          -79.3553,
-          37.7324
-        ],
-        "type": "Point"
-      },
-      "id": "3c3d1c918dc75658d27dde629e429436"
     },
     {
       "type": "Feature",
@@ -11168,6 +11255,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1478",
+        "County/Parish": "",
+        "Total Volunteers": "18",
+        "Medical Exams": "0",
+        "Flu Shots": "",
+        "Glasses": "0",
+        "Total Patients": "26",
+        "City": "Knoxville",
+        "Extractions": "41",
+        "Total Value of Care": " $22,830.00 ",
+        "State": "Tennessee",
+        "Fillings": "11",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "4",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "45d1e0041bff0a7535cccdb26131bcf1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "541",
         "County/Parish": "",
         "Total Volunteers": "2",
@@ -11193,6 +11309,35 @@
         "type": "Point"
       },
       "id": "45d3667c340cc21d9b6eaa7910e9038d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1490",
+        "County/Parish": "",
+        "Total Volunteers": "59",
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "357",
+        "Total Patients": "326",
+        "City": "Alamo",
+        "Extractions": "",
+        "Total Value of Care": " $88,506.00 ",
+        "State": "Texas",
+        "Fillings": "",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -98.1231,
+          26.1837
+        ],
+        "type": "Point"
+      },
+      "id": "4627ee2d49a41c1d01e0ddb77391b5f6"
     },
     {
       "type": "Feature",
@@ -14522,7 +14667,7 @@
       },
       "geometry": {
         "coordinates": [
-          -66.589699,
+          -66.589698,
           6.4238
         ],
         "type": "Point"
@@ -14764,6 +14909,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1486",
+        "County/Parish": "",
+        "Total Volunteers": "263",
+        "Medical Exams": "154",
+        "Flu Shots": "",
+        "Glasses": "147",
+        "Total Patients": "285",
+        "City": "Stone Mountain",
+        "Extractions": "141",
+        "Total Value of Care": " $203,094.00 ",
+        "State": "Georgia",
+        "Fillings": "50",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "33",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -84.1477,
+          33.8053
+        ],
+        "type": "Point"
+      },
+      "id": "5efdcc302d91df4d70689ea1a945f2bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "950",
         "County/Parish": "",
         "Total Volunteers": "459",
@@ -14934,6 +15108,35 @@
         "type": "Point"
       },
       "id": "5fff5ae46e285fc09e9d222fd1d6422c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1484",
+        "County/Parish": "",
+        "Total Volunteers": "380",
+        "Medical Exams": "94",
+        "Flu Shots": "",
+        "Glasses": "189",
+        "Total Patients": "470",
+        "City": "Pensacola",
+        "Extractions": "526",
+        "Total Value of Care": " $340,218.00 ",
+        "State": "Florida",
+        "Fillings": "145",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "72",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -87.2169,
+          30.4213
+        ],
+        "type": "Point"
+      },
+      "id": "6049e21321bb2b74be37fe3778770e68"
     },
     {
       "type": "Feature",
@@ -15305,7 +15508,7 @@
       },
       "geometry": {
         "coordinates": [
-          -67.040899,
+          -67.040898,
           18.0809
         ],
         "type": "Point"
@@ -23450,7 +23653,7 @@
         "Pet Served": "",
         "Country": "United States",
         "Cleanings": "",
-        "Year": "2015"
+        "Year": 2015
       },
       "geometry": {
         "coordinates": [
@@ -23547,6 +23750,35 @@
         "type": "Point"
       },
       "id": "9a0a599ce14fc0c8eadf41fe08e6ea2e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1472",
+        "County/Parish": "",
+        "Total Volunteers": "112",
+        "Medical Exams": "0",
+        "Flu Shots": "0",
+        "Glasses": "173",
+        "Total Patients": "210",
+        "City": "Angleton",
+        "Extractions": "35",
+        "Total Value of Care": " $75,606.00 ",
+        "State": "Texas",
+        "Fillings": "8",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "1",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -95.4319,
+          29.1694
+        ],
+        "type": "Point"
+      },
+      "id": "9a640a739a85bbf612bf8e829e62ce6b"
     },
     {
       "type": "Feature",
@@ -31584,6 +31816,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1481",
+        "County/Parish": "",
+        "Total Volunteers": "8",
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "904",
+        "City": "Tuburan",
+        "Extractions": "",
+        "Total Value of Care": " $27,613.00 ",
+        "State": "",
+        "Fillings": "",
+        "Pet Served": "0",
+        "Country": "Philippines",
+        "Cleanings": "",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          123.8167,
+          10.7333
+        ],
+        "type": "Point"
+      },
+      "id": "c99574c0f121adcba040842ae629048b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "773",
         "County/Parish": "",
         "Total Volunteers": "669",
@@ -33600,7 +33861,7 @@
         "Pet Served": "0",
         "Country": "Guyana",
         "Cleanings": "0",
-        "Year": "1900"
+        "Year": 2005
       },
       "geometry": {
         "coordinates": [
@@ -33726,6 +33987,35 @@
         "type": "Point"
       },
       "id": "d676591566b8fe627bf8f9608787d92a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1485",
+        "County/Parish": "",
+        "Total Volunteers": "3",
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "99",
+        "Total Patients": "99",
+        "City": "Midfield ",
+        "Extractions": "",
+        "Total Value of Care": " $25,050.00 ",
+        "State": "Alabama",
+        "Fillings": "",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -86.9089,
+          33.4615
+        ],
+        "type": "Point"
+      },
+      "id": "d697bde5493d00157c32a14ba720bc7c"
     },
     {
       "type": "Feature",
@@ -36224,6 +36514,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1474",
+        "County/Parish": "",
+        "Total Volunteers": "34",
+        "Medical Exams": "0",
+        "Flu Shots": "0",
+        "Glasses": "0",
+        "Total Patients": "48",
+        "City": "Miami",
+        "Extractions": "23",
+        "Total Value of Care": " $24,462.00 ",
+        "State": "Florida",
+        "Fillings": "9",
+        "Pet Served": "0",
+        "Country": "USA",
+        "Cleanings": "8",
+        "Year": "2024"
+      },
+      "geometry": {
+        "coordinates": [
+          -80.1918,
+          25.7617
+        ],
+        "type": "Point"
+      },
+      "id": "e6a09d49fabbe5301c7e185d45fd3063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "688",
         "County/Parish": "Pickett Co",
         "Total Volunteers": "",
@@ -37606,8 +37925,8 @@
       },
       "geometry": {
         "coordinates": [
-          -84.6849,
-          35.8651
+          -83.9358,
+          35.8328
         ],
         "type": "Point"
       },
@@ -37950,7 +38269,7 @@
         "Pet Served": "",
         "Country": "United States",
         "Cleanings": "0",
-        "Year": "1905"
+        "Year": 2015
       },
       "geometry": {
         "coordinates": [
