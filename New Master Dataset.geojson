@@ -757,6 +757,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1462 - Telehealth SOS Day",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 20,
+        "City": "Maryville",
+        "Extractions": "",
+        "Total Value of Care": "$2,541 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9705,
+          35.7565
+        ],
+        "type": "Point"
+      },
+      "id": "06572941c72d23f70426fc7bd71479ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "42",
         "County/Parish": "Marion Co",
         "Total Volunteers": "",
@@ -898,6 +927,35 @@
         "type": "Point"
       },
       "id": "074e5e8f336148d4cdd0ce6e2a637574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1438 - Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 1,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 7,
+        "City": "Jamestown",
+        "Extractions": "",
+        "Total Value of Care": "$20,351 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -84.931939,
+          36.427
+        ],
+        "type": "Point"
+      },
+      "id": "076bb79ec725554a09214705cc8df205"
     },
     {
       "type": "Feature",
@@ -3715,6 +3773,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1341 - Telehealth Steps House ",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 6,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,426 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "183b6241de3f7b832f4765d108c2a87c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "137",
         "County/Parish": "",
         "Total Volunteers": "",
@@ -5281,6 +5368,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1476 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 6,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 25,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$5,454 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "21104895fc27b543c044f142638f059b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "749",
         "County/Parish": "",
         "Total Volunteers": "365",
@@ -6064,6 +6180,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "April 10, 2024 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 8,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$2,266 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "2578421a0b11aecf81e36d61cc5ddfda"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1394",
         "County/Parish": "",
         "Total Volunteers": "222",
@@ -6408,6 +6553,35 @@
         "type": "Point"
       },
       "id": "272a342b2ec660214e4e08e186e5674c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "Oct 9 2024 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 22,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$4,865 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "278efec44098e570207e57ef3f40bab7"
     },
     {
       "type": "Feature",
@@ -6760,6 +6934,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1465 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 18,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,221 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "2a0fcbad21edbdd42bdea3d838e618c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "234",
         "County/Parish": "",
         "Total Volunteers": "",
@@ -6785,6 +6988,35 @@
         "type": "Point"
       },
       "id": "2a134619881e1ddb06899ce4b8906567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "RAM Ranch 2024",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "",
+        "City": "Rockford",
+        "Extractions": "",
+        "Total Value of Care": "",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9358,
+          35.8328
+        ],
+        "type": "Point"
+      },
+      "id": "2a3639d856183155cef4247944a5edf1"
     },
     {
       "type": "Feature",
@@ -6872,6 +7104,35 @@
         "type": "Point"
       },
       "id": "2a536698cbca7e321d31a80c5b01180f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1339 Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 11,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 31,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$5,503 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "2a5b1073fd9aa24d09a0be2bf091c7cb"
     },
     {
       "type": "Feature",
@@ -7224,6 +7485,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1397 - Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 3,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "",
+        "City": "Winston-Salem",
+        "Extractions": "",
+        "Total Value of Care": "",
+        "State": "North Carolina",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -80.240103,
+          36.102568
+        ],
+        "type": "Point"
+      },
+      "id": "2c5fc37354e908ca33c790a0df2618f9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1487",
         "County/Parish": "",
         "Total Volunteers": "6",
@@ -7278,6 +7568,64 @@
         "type": "Point"
       },
       "id": "2d0215b863544b8e85ecb0f4be2771b0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1413 - Telehealth SOS Day",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 9,
+        "City": "Alcoa",
+        "Extractions": "",
+        "Total Value of Care": "$2,523 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.98653,
+          35.784294
+        ],
+        "type": "Point"
+      },
+      "id": "2d158c55f8e436b372f77945fc256094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1421 - Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 1,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 6,
+        "City": "Hamilton",
+        "Extractions": "",
+        "Total Value of Care": "$19,574 ",
+        "State": "Ohio",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -84.56034,
+          39.39931
+        ],
+        "type": "Point"
+      },
+      "id": "2e3fda25a3aae7139c1322586e68e3a8"
     },
     {
       "type": "Feature",
@@ -7920,6 +8268,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1456 -  Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 7,
+        "City": "Louisville",
+        "Extractions": "",
+        "Total Value of Care": "$31,871 ",
+        "State": "Kentucky",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -85.752624,
+          38.255133
+        ],
+        "type": "Point"
+      },
+      "id": "31834915663443fdf191d9008af7bffe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "659",
         "County/Parish": "Knox Co",
         "Total Volunteers": "318",
@@ -8061,6 +8438,35 @@
         "type": "Point"
       },
       "id": "3290e55b09ec3ed792716c186aec1598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1402 - Telehealth Steps House",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 6,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,805 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "32995db718aa8d66f8482d2c7adb48c8"
     },
     {
       "type": "Feature",
@@ -9689,6 +10095,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1479 - Telehealth Steps House",
+        "County/Parish": "",
+        "Total Volunteers": 3,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 7,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,484 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "3ac8f9e29e57573df96252fe9fe95d48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "334",
         "County/Parish": "",
         "Total Volunteers": "48",
@@ -10323,6 +10758,35 @@
         "type": "Point"
       },
       "id": "40bcb67a829439d41f48eba50d790f98"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1354 - Telehealth Steps House ",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 4,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$949 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "40e06b075d36c55753f484e14a24ebb3"
     },
     {
       "type": "Feature",
@@ -11574,6 +12038,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1483 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 12,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$2,939 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "476d326fc9a76bef61ad1248a529758a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "831",
         "County/Parish": "",
         "Total Volunteers": "6",
@@ -11628,6 +12121,35 @@
         "type": "Point"
       },
       "id": "4789635084a19fe8b4cabe49dc1d521d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1391 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 6,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 16,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,563 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "478dd7c3c358b52fa485e402ae860905"
     },
     {
       "type": "Feature",
@@ -12556,6 +13078,64 @@
         "type": "Point"
       },
       "id": "4c6ff5848e951da09fd4fd5fda787ae0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1457 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 6,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 19,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$4,902 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "4c9cdc55aa2bc62a79c686378a68d938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "Telehealth 2024 Excluding Mobile units",
+        "County/Parish": "",
+        "Total Volunteers": "",
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "",
+        "City": "Rockford",
+        "Extractions": "",
+        "Total Value of Care": "",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9358,
+          35.8328
+        ],
+        "type": "Point"
+      },
+      "id": "4cd47a78fa9469380e37eb65dbb9eb72"
     },
     {
       "type": "Feature",
@@ -13546,6 +14126,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1458 - Telehealth Steps House",
+        "County/Parish": "",
+        "Total Volunteers": 3,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 4,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$638 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "5348658aefb6b572e24b4b60781b4378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "54",
         "County/Parish": "Scott Co",
         "Total Volunteers": "50",
@@ -14271,6 +14880,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1482 -  Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 14,
+        "City": "Clinton",
+        "Extractions": "",
+        "Total Value of Care": "$65,070 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -84.1316,
+          36.1035
+        ],
+        "type": "Point"
+      },
+      "id": "597483a68c07a68eb2f3a7db29fb1a15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "869",
         "County/Parish": "",
         "Total Volunteers": "2092",
@@ -14441,6 +15079,35 @@
         "type": "Point"
       },
       "id": "5a36fd6bc1b9642a90e450032c1e5219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1425 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 9,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 33,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$7,323 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "5a51967850985ce908994968b03d6136"
     },
     {
       "type": "Feature",
@@ -14731,6 +15398,35 @@
         "type": "Point"
       },
       "id": "5ce3f6f706162635698068b869e61afe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1445 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 18,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,720 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "5cea6e03eec36c51c2c0bbbbc70fd1f8"
     },
     {
       "type": "Feature",
@@ -17577,6 +18273,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1371 - Telehealth Steps House",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 3,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,009 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "7114b783db722acfe6173248ef887d92"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "428",
         "County/Parish": "Blount",
         "Total Volunteers": "142",
@@ -17718,6 +18443,35 @@
         "type": "Point"
       },
       "id": "721672c3e3ee20006794b9113b451a1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "7/24/2024 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 9,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$2,392 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "72196093e591ab5e6d71575218c0eb8b"
     },
     {
       "type": "Feature",
@@ -18592,6 +19346,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1449 -Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 2,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 6,
+        "City": "Morristown",
+        "Extractions": "",
+        "Total Value of Care": "$34,614 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.293622,
+          36.214574
+        ],
+        "type": "Point"
+      },
+      "id": "78119517872a3a05dfc0c4c45fc600b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1078",
         "County/Parish": "",
         "Total Volunteers": "11",
@@ -18824,6 +19607,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "HQ Glasses 2024",
+        "County/Parish": "",
+        "Total Volunteers": "",
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 265,
+        "City": "Rockford",
+        "Extractions": "",
+        "Total Value of Care": "$59,250 ",
+        "State": "",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9358,
+          35.8328
+        ],
+        "type": "Point"
+      },
+      "id": "79cf7bad908d04a78672489800bf217e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "425",
         "County/Parish": "Cocke Co",
         "Total Volunteers": "27",
@@ -18907,6 +19719,35 @@
         "type": "Point"
       },
       "id": "7a35c5f2ab92a102f8cbf9baf09bdcc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1471 -  Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 1,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 12,
+        "City": "Pensacola",
+        "Extractions": "",
+        "Total Value of Care": "$58,056 ",
+        "State": "Florida",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -87.2169,
+          30.4213
+        ],
+        "type": "Point"
+      },
+      "id": "7a39a8c2dcb4e6b9e603930792d79376"
     },
     {
       "type": "Feature",
@@ -19752,6 +20593,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1333  Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 11,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 46,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$4,527 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "80b3070c00eb4af64899a6ba2c24e326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1127",
         "County/Parish": "",
         "Total Volunteers": "38",
@@ -19806,6 +20676,35 @@
         "type": "Point"
       },
       "id": "80f5dd2a9b5c6108f75ae9acceb6e9aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1451 - Telehealth",
+        "County/Parish": "",
+        "Total Volunteers": 1,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "",
+        "City": "Cincinnati",
+        "Extractions": "",
+        "Total Value of Care": "",
+        "State": "Ohip",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -84.512,
+          39.1031
+        ],
+        "type": "Point"
+      },
+      "id": "80f72923f7d048d181d1b7f224a8118b"
     },
     {
       "type": "Feature",
@@ -20941,6 +21840,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1444 - Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 2,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 8,
+        "City": "Sparta",
+        "Extractions": "",
+        "Total Value of Care": "$49,920 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -85.464673,
+          35.925523
+        ],
+        "type": "Point"
+      },
+      "id": "876ff2ceb1ba09863ff95ff100b8625d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "365",
         "County/Parish": "Clay Co",
         "Total Volunteers": "87",
@@ -21401,6 +22329,35 @@
         "type": "Point"
       },
       "id": "8a8e5fe08faf6eeb366f875b0a8a674b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "AMS 2024",
+        "County/Parish": "",
+        "Total Volunteers": 800,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 3501,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,390,390 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "8acba3d3571a0de1df04a04f54832b91"
     },
     {
       "type": "Feature",
@@ -22014,6 +22971,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1345 - Telehealth Care Cuts ",
+        "County/Parish": "",
+        "Total Volunteers": 8,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 16,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$5,769 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "8f6bb8eadf837b80e48633974b1ed12a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "786",
         "County/Parish": "Jefferson",
         "Total Volunteers": "2",
@@ -22300,6 +23286,35 @@
         "type": "Point"
       },
       "id": "903b248d867c82ee4d9777b78db0ce9d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": " VMC 2024",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 157,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$29,070 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "90566eff12dd4e39ecd61258e9ba08a3"
     },
     {
       "type": "Feature",
@@ -22768,6 +23783,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1404 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 16,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,767 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "94039200e3ca904dc87b3b697de4e03f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "910",
         "County/Parish": "",
         "Total Volunteers": "30",
@@ -22851,6 +23895,35 @@
         "type": "Point"
       },
       "id": "95313744c0b1e82c010ee637f78e646f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1353 - Telehealth Care Cuts ",
+        "County/Parish": "",
+        "Total Volunteers": 6,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 21,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$4,741 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "95412e55c0b012a3519c4b3edaaecdb9"
     },
     {
       "type": "Feature",
@@ -23696,6 +24769,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "Smokies Volunteers 2024",
+        "County/Parish": "",
+        "Total Volunteers": 142,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "",
+        "City": "Rockford",
+        "Extractions": "",
+        "Total Value of Care": "",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9358,
+          35.8328
+        ],
+        "type": "Point"
+      },
+      "id": "99c8df2981005e7d64ad814f9433586e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "665",
         "County/Parish": "Sullivan Co",
         "Total Volunteers": "702",
@@ -23808,6 +24910,35 @@
         "type": "Point"
       },
       "id": "9ac6182bb92cd250f47da34ca3b9de88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1473 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 19,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,346 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "9acbe51c80f23722ebdaa64519770fd2"
     },
     {
       "type": "Feature",
@@ -24678,6 +25809,35 @@
         "type": "Point"
       },
       "id": "9eea9c48e260309aeff36cecea033aba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1488 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 14,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,585 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "9f0d1f06a22cc2b59bc616c4a78cfb27"
     },
     {
       "type": "Feature",
@@ -25784,6 +26944,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1489 - Telehealth Steps House",
+        "County/Parish": "",
+        "Total Volunteers": 2,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 8,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,896 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "a53a4ac008d1505e489eb8bfdb6cd95b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "687",
         "County/Parish": "Pickett Co",
         "Total Volunteers": "331",
@@ -26041,6 +27230,35 @@
         "type": "Point"
       },
       "id": "a66f74059c497706bedd5f166b244cd9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "Traditional Dentures 2024",
+        "County/Parish": "",
+        "Total Volunteers": 1,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 166,
+        "City": "Rockford",
+        "Extractions": "",
+        "Total Value of Care": "$594,824 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9358,
+          35.8328
+        ],
+        "type": "Point"
+      },
+      "id": "a696a2fee3bb6322fe57a979f8475a7b"
     },
     {
       "type": "Feature",
@@ -26592,6 +27810,35 @@
         "type": "Point"
       },
       "id": "aae72fd84e25d873c6182d5592b82e3d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1334 Telehealth Steps House",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 7,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$1,565 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "ab63897b764348341a312ff004bc5f42"
     },
     {
       "type": "Feature",
@@ -27785,6 +29032,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1360 - Telehealth Care Cuts ",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 11,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,075 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "b0bce3cbcabf5fbda0517d5ed7b7c847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "478",
         "County/Parish": "Knox Co",
         "Total Volunteers": "211",
@@ -28216,6 +29492,35 @@
         "type": "Point"
       },
       "id": "b419c6a349563ec8cb3e5032241e9093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1346 - Knoxville, TN (Day Reporting Center DRC)",
+        "County/Parish": "",
+        "Total Volunteers": 29,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 82,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$22,354 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "b46d11b48045ed74b4e1cd50c1db8a87"
     },
     {
       "type": "Feature",
@@ -29206,6 +30511,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1491 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 19,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,872 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "b990c06c712612fab433499d3d638534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1361",
         "County/Parish": "",
         "Total Volunteers": "29",
@@ -29405,6 +30739,35 @@
         "type": "Point"
       },
       "id": "bb5b17cdf8003500581b338e3c5abdab"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1450 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 20,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,959 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "bb6d9aa9709b9943e1dd7984c899f2cf"
     },
     {
       "type": "Feature",
@@ -32657,6 +34020,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1410 - Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 12,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 8,
+        "City": "Louisville",
+        "Extractions": "",
+        "Total Value of Care": "$27,004 ",
+        "State": "Kentucky",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -85.752624,
+          38.255133
+        ],
+        "type": "Point"
+      },
+      "id": "cdce81f9cfe9547aa4d994ae72f4b6e3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1058",
         "County/Parish": "",
         "Total Volunteers": "488",
@@ -33440,6 +34832,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1396 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 16,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,177 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "d3a2175be33fa9a718bc8908b2e6c0bd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "495",
         "County/Parish": "Loudon",
         "Total Volunteers": "1",
@@ -34194,6 +35615,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1414 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 9,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 25,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$6,175 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "d7c86e0b69072f5aabf2bbcd2d8e61a2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "677",
         "County/Parish": "Jefferson Co",
         "Total Volunteers": "195",
@@ -34455,6 +35905,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1405 - Knox Co Detention Center Vision only",
+        "County/Parish": "",
+        "Total Volunteers": 6,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 71,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$15,574 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "d8e6d7c4c15254f024a0bd3aa69b3e48"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1023",
         "County/Parish": "",
         "Total Volunteers": "5",
@@ -34509,6 +35988,35 @@
         "type": "Point"
       },
       "id": "d9718e6a282da3bf3e24fa38cfc185ba"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1370 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 15,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 14,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$5,297 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "d9b6c8a18e6526907df35158919080ef"
     },
     {
       "type": "Feature",
@@ -36021,6 +37529,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1418 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 14,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,313 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "e2ece198f2d0affb857b78e6b59f6e26"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1019",
         "County/Parish": "",
         "Total Volunteers": "312",
@@ -36717,6 +38254,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "HQ Volunteers 2024",
+        "County/Parish": "",
+        "Total Volunteers": 445,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": "",
+        "City": "Rockford",
+        "Extractions": "",
+        "Total Value of Care": "",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.9358,
+          35.8328
+        ],
+        "type": "Point"
+      },
+      "id": "e84b31970154b7793992fecbc6b29f41"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "1126",
         "County/Parish": "",
         "Total Volunteers": "26",
@@ -37061,6 +38627,35 @@
         "type": "Point"
       },
       "id": "ea15d02359d3c23819c35fc681a1b15b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1466 -  Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 9,
+        "City": "Jasper",
+        "Extractions": "",
+        "Total Value of Care": "$32,557 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -85.625764,
+          35.072986
+        ],
+        "type": "Point"
+      },
+      "id": "ea28c87cdfdfe09a9805985d6a102c87"
     },
     {
       "type": "Feature",
@@ -37438,6 +39033,35 @@
         "type": "Point"
       },
       "id": "ec917e53e80400f92c9f3b43aff5f614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1375 - Telehealth - Care Cuts ",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 10,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$2,863 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "ecb0db60d2eac515f1b5199a4e3ea61c"
     },
     {
       "type": "Feature",
@@ -37993,6 +39617,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1477 -  Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 4,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 16,
+        "City": "Johnson City",
+        "Extractions": "",
+        "Total Value of Care": "$56,332 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -82.356244,
+          36.314795
+        ],
+        "type": "Point"
+      },
+      "id": "ef8a5bff92c9599558cc8dc9779025ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "Denture",
         "County/Parish": "",
         "Total Volunteers": "",
@@ -38076,6 +39729,35 @@
         "type": "Point"
       },
       "id": "efc08c10ffac36c9e26483057284e2d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1452 - Telehealth",
+        "County/Parish": "",
+        "Total Volunteers": 3,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 3,
+        "City": "Greeneville",
+        "Extractions": "",
+        "Total Value of Care": "$753 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -86.888333,
+          36.296997
+        ],
+        "type": "Point"
+      },
+      "id": "efd02306f50074ff57f811077b752c70"
     },
     {
       "type": "Feature",
@@ -38631,6 +40313,35 @@
     {
       "type": "Feature",
       "properties": {
+        "Expedition": "1441 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 5,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 24,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$5,371 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "f2e392bd3ca11e214feeade619b2201c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Expedition": "378",
         "County/Parish": "",
         "Total Volunteers": "",
@@ -39149,6 +40860,35 @@
         "type": "Point"
       },
       "id": "f561041faa26f8e253117136129a93cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1390 - Digital Dentures",
+        "County/Parish": "",
+        "Total Volunteers": 8,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 8,
+        "City": "Jamestown",
+        "Extractions": "",
+        "Total Value of Care": "$47,424 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -84.931939,
+          36.427
+        ],
+        "type": "Point"
+      },
+      "id": "f56c18eb2295260feaa0e4ee2f5739bb"
     },
     {
       "type": "Feature",
@@ -40048,6 +41788,35 @@
         "type": "Point"
       },
       "id": "faa7db2568bd3d5881e3f87d4d27034d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Expedition": "1411 - Telehealth Care Cuts",
+        "County/Parish": "",
+        "Total Volunteers": 7,
+        "Medical Exams": "",
+        "Flu Shots": "",
+        "Glasses": "",
+        "Total Patients": 17,
+        "City": "Knoxville",
+        "Extractions": "",
+        "Total Value of Care": "$3,557 ",
+        "State": "Tennessee",
+        "Fillings": "",
+        "Pet Served": "",
+        "Country": "USA",
+        "Cleanings": "",
+        "Year": 2024
+      },
+      "geometry": {
+        "coordinates": [
+          -83.918261,
+          35.964535
+        ],
+        "type": "Point"
+      },
+      "id": "fab96fcf7754762dbe2256a43f840c6e"
     },
     {
       "type": "Feature",
