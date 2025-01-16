@@ -712,7 +712,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2014
       },
@@ -2498,7 +2498,7 @@
       "type": "Feature",
       "properties": {
         "Expedition": 790,
-        "County/Parish": null,
+        "County/Parish": "Northern Samar",
         "Total Volunteers": 8,
         "Medical Exams": 0,
         "Flu Shots": null,
@@ -2510,7 +2510,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Northern Samar",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2016
       },
@@ -7846,7 +7846,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillipines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2016
       },
@@ -10079,7 +10079,7 @@
         "State": null,
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "Phillipines",
+        "Country": "Philippines",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -10659,7 +10659,7 @@
         "State": "Sorsogon",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -12428,7 +12428,7 @@
         "State": null,
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "Phillipines",
+        "Country": "Philippines",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -22694,7 +22694,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": null,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2015
       },
@@ -25739,7 +25739,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -28146,7 +28146,7 @@
         "State": "Logon Daanbantayan Cebu",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -28494,7 +28494,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2014
       },
@@ -29306,7 +29306,7 @@
         "State": "Sorsogon",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -31829,7 +31829,7 @@
         "State": "Queson",
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": 0,
         "Year": 2018
       },
@@ -32902,7 +32902,7 @@
         "State": null,
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "Phillipines",
+        "Country": "Philippines",
         "Cleanings": 0,
         "Year": 2014
       },
@@ -34700,7 +34700,7 @@
         "State": null,
         "Fillings": null,
         "Pet Served": null,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2013
       },
@@ -35396,7 +35396,7 @@
         "State": "Caraga Region",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -37281,7 +37281,7 @@
         "State": "Palawan",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -37716,7 +37716,7 @@
         "State": "Sulu",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -38441,7 +38441,7 @@
         "State": "Camarines Sur",
         "Fillings": null,
         "Pet Served": 0,
-        "Country": "Phillippines",
+        "Country": "Philippines",
         "Cleanings": null,
         "Year": 2019
       },
@@ -38470,7 +38470,7 @@
         "State": null,
         "Fillings": 0,
         "Pet Served": 0,
-        "Country": "Phillipines",
+        "Country": "Philippines",
         "Cleanings": 0,
         "Year": 2018
       },
