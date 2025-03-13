@@ -7980,7 +7980,7 @@
       "properties": {
         "Expedition": 909,
         "County/Parish": null,
-        "Total Volunteers": "N/A",
+        "Total Volunteers": "0",
         "Medical Exams": 0,
         "Flu Shots": null,
         "Glasses": 32,
@@ -13993,7 +13993,7 @@
         "Total Value of Care": 12000,
         "State": "Georgia",
         "Fillings": 0,
-        "Pet Served": "N/A",
+        "Pet Served": "0",
         "Country": "USA",
         "Cleanings": 0,
         "Year": 2017
