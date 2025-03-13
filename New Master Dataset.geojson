@@ -13993,7 +13993,7 @@
         "Total Value of Care": 12000,
         "State": "Georgia",
         "Fillings": 0,
-        "Pet Served": "0",
+        "Pet Served": null,
         "Country": "USA",
         "Cleanings": 0,
         "Year": 2017
@@ -40151,7 +40151,7 @@
         "Total Value of Care": 86521,
         "State": "Georgia",
         "Fillings": 67,
-        "Pet Served": 0,
+        "Pet Served": null,
         "Country": "USA",
         "Cleanings": 22,
         "Year": 2021
